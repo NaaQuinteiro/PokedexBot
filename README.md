@@ -13,5 +13,5 @@ PokedexBot é um bot para **Telegram** feito em **Python**, que consome a [Poké
 1. Certifique-se de ter o **Python** instalado.
 2. Clone este repositório e entre na pasta:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone <https://github.com/NaaQuinteiro/PokedexBot.git>
+   cd <PokedexBot>
