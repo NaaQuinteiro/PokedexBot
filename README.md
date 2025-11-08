@@ -15,3 +15,15 @@ PokedexBot é um bot para **Telegram** feito em **Python**, que consome a [Poké
    ```bash
    git clone https://github.com/NaaQuinteiro/PokedexBot.git
    cd PokedexBot
+3. Instale as dependências:
+   ```bash
+   pip install -r ./requirements.txt
+4. Rode o projeto:
+   ```bash
+   python .\pokedexBot.py
+6.  Acesse o bot no Telegram:
+   ```bash
+   Nome de usuário: @arceusDexBot
+   Comandos disponíveis: /start ou /pokedex
+
+
