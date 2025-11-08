@@ -21,7 +21,7 @@ PokedexBot é um bot para **Telegram** feito em **Python**, que consome a [Poké
 4. Rode o projeto:
    ```bash
    python .\pokedexBot.py
-6.  Acesse o bot no Telegram:
+5. Acesse o bot no Telegram:
    ```bash
    Nome de usuário: @arceusDexBot
    Comandos disponíveis: /start ou /pokedex
