@@ -1,4 +1,4 @@
-# PokedexBot
+# PokedexBot ![Pikachu animado](https://slackmojis.com/emojis/12345-pikachu/download)
 
 PokedexBot é um bot para **Telegram** feito em **Python**, que consome a [PokéAPI](https://pokeapi.co/) e retorna informações sobre o Pokémon que você escolher.
 
